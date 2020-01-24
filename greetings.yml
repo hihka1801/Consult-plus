@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Попытка 2</title>
+    <!-- <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/core.css">
+    <link rel="stylesheet" href="css/futer.css">
+    <link rel="stylesheet" href="css/john.css">
+    <link rel="stylesheet" href="css/vision.css"> -->
+    <link rel="stylesheet" href="css/alle.css">
+</head>
+
+<body>
+
+<header class="site-header">
+    <div class="header-line">
+         <div class="row-1">
+             <div class="row-2">
+                <div class="main-email">
+                 <a href="mailto:hihka89@yandex.ru">
+                     <div class="span">EMAIL:</div>hihka89@yandex.ru</a>
+                </div>
+                
+                <div class="main-phone">
+                <a href="tel:+79022682759"><div class="span">PHONE:</div>+7 902 268 2759</a>
+                </div>
+             </div>   
+        </div>
+    </div>
+</header>
+
+    <div class="container">
+        <div class="row">
+            <div class="block-170">
+                    <a href="#"><img src="images/logo.png" alt="" class="main-logo">
+                    </a>
+            </div>  
+            <div class="block-370">
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="">HOME</a></li>
+                        <li><a href="">ABOUT US</a></li>
+                        <li><a href="">INDUSTRY</a></li>
+                        <li><a href="">SERVICES</a></li>
+                        <li><a href="">PAGES</a></li>
+                        <li><a href="">CONTACT US</a></li>
+                    </ul>
+                </nav>
+            </div> 
+        </div> 
+
+    </div>
+<main-img>
+    <div class="ebout">
+        <img src="images/ABOUT US 1.jpg" alt="#">
+    </div>
+    <div class="block-img">
+        <img src="images/й1.png" alt="">
+    </div>    
+        <div class="span1">About Us</div>
+</main-img>
+
+<div class="about">
+    <div class="rds">
+        <h1>ABOUT US</h1>
+    </div>
+    <div class="container-1">
+        <div class="block-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus itaque saepe laboriosam eos quaerat vero minima asperiores corrupti, nesciunt totam ipsa pariatur tenetur aliquam. Nemo perferendis numquam modi id placeat?
+        </div>
+            <div class="block-2">
+                <div class="block-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Et odit at officia voluptatem tempore, omnis numquam tenetur ullam autem aliquid explicabo, ut repudiandae optio accusamus velit quas hic reiciendis voluptatum?
+                </div>
+                    <div class="block-4">
+                        <div class="block-5">
+                            <div class="block6">
+                                <img src="images/22.png" alt="">
+                            </div>
+                            <div class="block7">
+                                <span-2>25</span-2> <br>
+                                 year of excellence 
+                            </div>
+
+                            <div class="block8">
+                                <span-3>650</span-3> <br>
+                                Happy clients 
+                            </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="cori">
+    <div class="conteiner-2">
+        <div class="con">
+            <h1>CORE VALUES</h1>
+        </div>
+    </div>
+    <div class="conteiner-3">
+    <div class="block-img-1">
+    <img src="images/3.png" alt="">
+    <h3>Client Satisfaction</h3>
+    </div>
+    <div class="block-img-2">
+        <img src="images/31.png" alt="">
+        <h3>Fully Support</h3>
+    </div>
+    <div class="block-img-3">
+        <img src="images/32.png" alt="">
+        <h3>We play to win</h3>
+    </div>
+</div>
+
+        <div class="conteiner-3">
+            <div class="block-9">
+                <!-- <h3></h3> -->
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum in deserunt, porro tenetur quasi asperiores corporis perferendis. Quaerat commodi facilis, illum asperiores ea vero aut reiciendis aliquid deserunt eum obcaecati.
+            </div>
+            <div class="block-10">
+                <!-- <h3>Fully Support</h3> -->
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum in deserunt, porro tenetur quasi asperiores corporis perferendis. Quaerat commodi facilis, illum asperiores ea vero aut reiciendis aliquid deserunt eum obcaecati.
+            </div>
+            <div class="block-11">
+                <!-- <h3>We play to win</h3> -->
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum in deserunt, porro tenetur quasi asperiores corporis perferendis. Quaerat commodi facilis, illum asperiores ea vero aut reiciendis aliquid 
+                deserunt eum obcaecati.
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="vis">
+    <div class="block1">
+        <h1>VISION</h1>
+        <img src="images/4_cr.jpg" alt="">
+    </div>
+    <div class="block2">
+        <h1>MISSION</h1>
+        <img src="images/41_cr.jpg" alt="">
+    </div>
+    <div class="block1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore libero cupiditate adipisci commodi, itaque ipsum quae, sequi dolor nisi necessitatibus labore sunt! Ex vel sunt ipsa neque dignissimos sequi reiciendis?</div>
+    <div class="block2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta perferendis praesentium nihil dolore eligendi quo aliquid cum facilis hic possimus aspernatur magni recusandae, provident pariatur tenetur perspiciatis officiis id delectus?
+    </div>
+<figure>
+<div>
+    
+    <img src="images/43.png" alt="">
+</div>
+<li><a href=""><div class="com">        Contact    </div></a>
+</li>
+</figure>
+
+<header>
+    <h1>MANAGEMENT</h1>
+</header>
+<div class="conteiner11">
+    <div class="block31">
+        <div class="fon5">
+            <img src="images/5.jpg" alt="">
+        </div>
+        <div class="fon51">
+            <img src="images/51.jpg" alt="">
+        </div>
+        <div class="buk1">
+        <h3>John Marshel</h3>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </div>
+        <div class="row">Facebook       Twitter       Google+ </div>    
+    </div>
+     
+    <div class="block32">
+        <div class="fon52">
+            <img src="images/53.jpg" alt="">
+        </div>
+        <div class="fon53">
+            <img src="images/54.jpg" alt="">
+        </div>
+        <div class="buk2">
+        <h3>John Marshel</h3>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </div>
+         <div class="row">Facebook       Twitter       Google+</div> 
+    </div>
+    <div class="block33">
+        <div class="fon54">
+            <img src="images/55.jpg" alt="">
+        </div>
+        <div class="fon55">
+            <img src="images/56.jpg" alt="">
+        </div>
+        <div class="buk3">
+        <h3>John Marshel</h3>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </div>
+        <div class="row">Facebook       Twitter       Google+</div> 
+    </div>           
+</div>
+<div class="bum">
+    <img src="images/43.png" alt="">
+</div>
+
+<div class="futer">
+    <div class="block21">
+        <div class="conteiner22">
+            <h2>News letter</h2>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit quod sit sequi, unde omnis voluptate molestiae dignissimos, id et ut quisquam, consequuntur fugiat in. Aperiam porro iure deserunt pariatur vitae.
+            <img src="images/6.png" alt="">
+            <img src="images/61.png" alt="">
+        </div>
+    </div>
+    <div class="block22">
+        <div class="block23">
+            <h2>navigation</h2>
+            <nav1>
+                <li> <a href="">Home </a> </li>
+                <li> <a href="">about us </a> </li>
+                <li> <a href="">industry </a> </li>
+                <li> <a href="">services </a> </li>
+                <li> <a href="">pages </a> </li>
+                <li> <a href="">Contact us</a> </li>
+            </nav1>
+        </div>
+        <div class="block24">
+            <h2>ndustary</h2>
+            <nav2>
+                <li> <a href="">Education</a> </li>
+                <li> <a href="">business</a> </li>
+                <li> <a href="">realestate</a> </li>
+                <li> <a href="">technology</a> </li>
+                <li> <a href="">banking</a> </li>
+                <li> <a href="">telicommunication</a> </li>
+                <li> <a href="">much more</a> </li>
+            </nav2>
+        </div>
+        <div class="block25">
+            <h2>Follow us</h2>
+            <nav3>
+                <li> <a href="">Facebook</a> </li>
+                <li> <a href="">twitter</a> </li>
+                <li> <a href="">instagram</a> </li>
+                <li> <a href="">linkedin</a> </li>
+                <li> <a href="">google </a> </li>
+            </nav3>     
+        </div>
+    </div>
+</div>
+<div class="row">
+
+</div>
+
+</body>
+</html>
